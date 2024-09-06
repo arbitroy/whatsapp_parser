@@ -27,6 +27,7 @@ func main() {
 	scanner := bufio.NewScanner(inputFile)
 
 	var currentMessage strings.Builder
+	var currentDateTime string
 	isAustinMessage := false
 	messageCount := 0
 
@@ -34,13 +35,14 @@ func main() {
 	writeMessage := func() {
 		if isAustinMessage && currentMessage.Len() > 0 {
 			messageCount++
-			_, err := fmt.Fprintf(outputFile, "Message %d:\n%s\n\n", messageCount, strings.TrimSpace(currentMessage.String()))
+			_, err := fmt.Fprintf(outputFile, "Message %d:\n%s\n%s\n\n", messageCount, currentDateTime, strings.TrimSpace(currentMessage.String()))
 			if err != nil {
 				log.Fatal(err)
 			}
 		}
 		currentMessage.Reset()
 		isAustinMessage = false
+		currentDateTime = ""
 	}
 
 	// Iterate through each line in the file
@@ -55,6 +57,8 @@ func main() {
 			// Split the line into timestamp and content
 			parts := strings.SplitN(line, " - ", 2)
 			if len(parts) == 2 {
+				currentDateTime = parts[0] // Capture the timestamp
+
 				// Check if this is a message from austinndauwa
 				senderAndMessage := strings.SplitN(parts[1], ": ", 2)
 				if len(senderAndMessage) == 2 && strings.EqualFold(strings.TrimSpace(senderAndMessage[0]), "austinndauwa") {

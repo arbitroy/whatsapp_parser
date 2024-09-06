@@ -1,0 +1,536 @@
+Message 1:
+02/05/24, 6:42 pm
+Hello team, today I: 
+Setup SVN by Moses,
+Setup Vault warden, laptop and email with Virginia 
+Joined the Moodle French Translation meeting
+Joined the development peer testing session
+
+Message 2:
+06/05/24, 8:40 pm
+Good evening team. 
+Today, I:
+Worked on and tested Jira issues with Orucho
+
+Message 3:
+07/05/24, 7:49 pm
+Good evening. 
+Today, I: 
+Worked on and tested Jira issues with Orucho, Mutuku and Thushara.
+
+Message 4:
+08/05/24, 6:01 pm
+Hello team, today I: 
+Worked on and tested Jira issues
+Worked on the Africa Milling School Moodle French website translation 
+Joined morning call with Edwin
+Joined code review session with Amar
+
+Message 5:
+09/05/24, 6:48 pm
+Hello team, today I: 
+Worked on and tested Jira issues
+Joined morning call with Edwin and the team
+
+Message 6:
+13/05/24, 7:18 pm
+Good evening. 
+Today, I: 
+Reviewed sprint 117 issues with the team. 
+Went through sprint 118 issues with the team. 
+Worked on and tested Jira issues with Orucho.
+
+Message 7:
+14/05/24, 6:24 pm
+Good evening team. 
+Today, I:
+Worked on and tested Jira issues with Orucho
+
+Message 8:
+15/05/24, 7:40 pm
+Hello team, today I: 
+Joined morning dev call with Edwin 
+Worked on and tested Jira issues
+Joined code review session
+Joined call on eprod website with Jackline
+Worked on eprod site
+
+Message 9:
+16/05/24, 6:55 pm
+Hello team, today I: 
+Joined morning ing dev call with Edwin 
+Worked on and tested Jira issues
+
+Message 10:
+17/05/24, 8:58 pm
+Hello team, today I: 
+Joined morning call with Edwin 
+Worked on and tested Jira issues
+Joined code review session
+
+Message 11:
+20/05/24, 6:58 pm
+Good evening team. 
+Today, I:
+Worked on and tested Jira issues with Orucho
+
+Message 12:
+21/05/24, 7:52 pm
+Good evening team. 
+Today, I worked on and tested Jira issues with Orucho.
+
+Message 13:
+22/05/24, 8:11 pm
+Good evening. 
+Today, I;
+Worked on and tested Jira issues with Orucho. 
+Had a check in meeting with Amar. 
+Joined the morning dev check in call with Edwin and Orucho.
+
+Message 14:
+23/05/24, 7:33 pm
+Good evening. 
+Today, I;
+Worked on and tested Jira issues with Orucho. 
+Had a check in meeting with Amar. 
+Joined the morning dev check in call with Edwin and Orucho.
+Had training on language translation by Kevin
+
+Message 15:
+24/05/24, 7:54 pm
+Good evening. 
+Today, I: 
+Worked on and tested Jira issues with Orucho. 
+Joined the morning dev call
+
+Message 16:
+27/05/24, 6:26 pm
+Good evening team. 
+Today, I worked on and tested Jira issues with Orucho.
+
+Message 17:
+28/05/24, 8:19 pm
+Good evening team. 
+Today, I: 
+Worked on and tested Jira issues with Orucho. 
+Tested all the issues from the sprint with the team.
+
+Message 18:
+29/05/24, 6:43 pm
+Hello team, today I: 
+Joined morning call with Edwin 
+Worked on and tested Jira issues
+
+Message 19:
+30/05/24, 7:43 pm
+Hello team, today I: 
+Joined Yelbridge webinar 
+Joined morning call with Edwin
+Worked on and tested Jira issues with Orucho
+
+Message 20:
+31/05/24, 6:55 pm
+Hello team, today I: 
+Joined morning call with Edwin
+Worked on and tested Jira issues with Orucho
+
+Message 21:
+03/06/24, 6:48 pm
+Good evening team. 
+Today, I worked on and tested Jira issues with Orucho.
+
+Message 22:
+04/06/24, 7:37 pm
+Good evening team. 
+Today, I:
+Worked on and tested Jira issues with Orucho and Mutuku. 
+Had a check in meeting with Amar and Orucho.
+
+Message 23:
+05/06/24, 6:52 pm
+Good evening team. 
+Today, I:
+Worked on and tested Jira issues with Orucho and Mutuku. 
+Had a check in meeting with Amar and Orucho.
+
+Message 24:
+06/06/24, 6:46 pm
+Good evening team. 
+Today, I:
+Joined morning call with Edwin
+Worked on and tested Jira issues
+
+Message 25:
+07/06/24, 6:55 pm
+Good evening. 
+Today, I:
+Joined the mornjng dev call either Edwin and Orucho. 
+Worked on and tested Jira issues.
+Had a check in meeting with Amar and Orucho.
+Was trained on workpay by Florence
+
+Message 26:
+10/06/24, 7:04 pm
+Good evening team.
+Today I:
+Worked on the fixes for the eProd website and documented it's plugins uses.
+
+Message 27:
+11/06/24, 6:52 pm
+Good evening. 
+Today, I:
+Worked on and tested Jira issues with Orucho
+
+Message 28:
+12/06/24, 8:42 pm
+Good evening. 
+Today, I;
+Worked on and tested Jira issues with Orucho. 
+Had a check in meeting with Amar and Orucho. 
+Joined the morning dev check in call with Edwin and Orucho.
+
+Message 29:
+13/06/24, 6:56 pm
+Good evening. 
+Today, I;
+Worked on and tested Jira issues. 
+Joined the morning dev check in call with Edwin.
+
+Message 30:
+14/06/24, 7:08 pm
+Good evening. 
+Today, I;
+Worked on and tested Jira issues. 
+Joined the morning dev check in call with Edwin.
+
+Message 31:
+18/06/24, 8:01 pm
+You deleted this message
+
+Message 32:
+19/06/24, 7:56 pm
+Hello team, today I:
+Joined morning dev call
+Joined review session with the team
+Worked on and tested jira issues with Orucho
+Tested Famoco accuracy “improvements”
+
+Message 33:
+20/06/24, 6:35 pm
+Hello team, today I:
+Joined morning dev call with Edwin and Orucho
+Joined review session with the team
+Worked on and tested jira issues with Orucho
+
+Message 34:
+24/06/24, 7:52 pm
+Good evening. 
+Today, I: 
+Worked on and tested Jira issues.
+
+Message 35:
+25/06/24, 5:53 pm
+I have arrived safely
+
+Message 36:
+26/06/24, 7:05 pm
+Good evening. 
+Today, I;
+Worked on and tested Jira issues. 
+Joined the morning dev check in call with Edwin.
+
+Message 37:
+27/06/24, 6:11 pm
+Hello team, today I:
+Worked on and tested jira issues
+
+Message 38:
+28/06/24, 5:46 pm
+Hello team, today I:
+Joined morning call with Edwin
+Worked on and tested Jira issues 
+Had a review session with Amar
+
+Message 39:
+01/07/24, 8:41 pm
+Hello team, today I:
+Worked on and tested
+ jira issues
+
+Message 40:
+02/07/24, 6:44 pm
+Hello team, today I:
+Worked on and tested
+ jira issues
+
+Message 41:
+03/07/24, 8:23 pm
+Good evening. 
+Today, I:
+Worked on and tested jira issues with Orucho. 
+Had a meeting with Jackline on the eProd website.
+Joined the students’ evening stand up session.
+
+Message 42:
+04/07/24, 8:15 pm
+Hello team, today I:
+Joined morning call with Edwin
+Worked on and tested
+ jira issues
+Tested polygons with Benedict.
+
+Message 43:
+05/07/24, 8:25 pm
+Good evening, today I:
+Joined morning call with Edwin
+Worked on and tested
+ jira issues
+Joined team Baraza
+
+Message 44:
+08/07/24, 7:58 pm
+Good evening team, today I:
+Worked on and tested jira issues
+Joined students stand up
+
+Message 45:
+09/07/24, 6:42 pm
+Good evening team, today I:
+Worked on and tested jira issues
+Joined students stand up
+
+Message 46:
+10/07/24, 7:43 pm
+Hello team, today I:
+Worked on and tested jira issues
+Joined students stand up
+
+Message 47:
+11/07/24, 7:07 pm
+Hello team, today I:
+Joined morning call with Edwin and Orucho
+Worked on and tested
+ jira issues
+Joined students stand up
+
+Message 48:
+15/07/24, 7:53 pm
+Hello team, today I:
+Worked on and tested jira issues with Orucho
+Joined students stand up
+
+Message 49:
+16/07/24, 7:56 pm
+Hello team, today I:
+Worked on and tested jira issues
+Joined students stand up
+
+Message 50:
+17/07/24, 7:41 pm
+Hello team, today I:
+Joined morning dev call with Edwin and Orucho
+Joined review session with the team
+Worked on and tested jira issues
+
+Message 51:
+18/07/24, 6:57 pm
+Hello team, today I:
+Worked on and tested jira issues
+Joined students stand up
+
+Message 52:
+19/07/24, 8:10 pm
+Hello team, today I:
+Worked on and tested jira issues
+Joined students stand up
+
+Message 53:
+22/07/24, 7:55 pm
+Hello team, today I:
+Worked on and tested jira issues
+Joined students stand up
+
+Message 54:
+23/07/24, 7:23 pm
+Hello team, today I:
+Worked on and tested jira issues
+
+Message 55:
+24/07/24, 6:47 pm
+Hello team, today I:
+Worked on and tested jira issues
+Joined students stand up
+
+Message 56:
+25/07/24, 8:02 pm
+Hello team, today, I: 
+Joined the morning dev call with Edwin and Orucho.  
+Worked on and tested Jira issues. 
+Joined the students’ evening stand-up meeting.
+
+Message 57:
+26/07/24, 7:56 pm
+Good evening. Today, I: 
+Worked on and tested Jira issues with Orucho. 
+Joined the students’ evening stand-up
+
+Message 58:
+29/07/24, 7:15 pm
+Good evening team, today I:
+Worked on and tested jira issues with Orucho
+Joined the code review session with the team
+
+Message 59:
+30/07/24, 6:47 pm
+Hello team, today I:
+Worked on and tested jira issues
+Had a code review session with the team
+
+Message 60:
+31/07/24, 10:55 pm
+Hello team, today I:
+Worked on and tested jira issues
+Had a code review session with the team
+
+Message 61:
+01/08/24, 6:46 pm
+Hello team, Today, I:
+Joined the morning dev call with Edwin and Orucho. 
+Worked on and tested Jira issues. 
+Had a code review session with the team.
+
+Message 62:
+06/08/24, 6:29 pm
+Hello team, today I:
+Worked on and tested jira issues with Orucho
+Had a code review session with the team
+Joined student standup
+Joined sprint testing standup
+
+Message 63:
+07/08/24, 7:51 pm
+Hello team, today I:
+Joined morning dev call with Orucho 
+Worked on and tested
+ jira issues
+Joined student standup
+Joined Sprint testing standup
+
+Message 64:
+08/08/24, 7:01 pm
+Good evening team, today I:
+Joined morning call with Edwin and Orucho
+Worked on and tested jira issues
+Joined sprint review session
+Joined Sprint testing standup
+
+Message 65:
+09/08/24, 6:09 pm
+Good evening team, today I: 
+Worked on and tested Jira issues. 
+Had Code review session with Amar
+Joined student standup
+Joined Sprint testing standup.
+
+Message 66:
+12/08/24, 6:30 pm
+Hello team, today I:
+Worked on and tested jira issues
+Joined students stand up
+
+Message 67:
+13/08/24, 9:50 pm
+Good evening team, today I:
+Worked on and tested jira issues
+Joined sprint review session
+Joined Sprint testing standup
+
+Message 68:
+14/08/24, 6:47 pm
+Good evening team, today I:
+Worked on and tested
+ jira issues
+Joined student standup
+
+Message 69:
+14/08/24, 9:00 pm
+🙋🏽‍♂️
+
+Message 70:
+15/08/24, 8:05 pm
+Hello team, today I:
+Worked on and tested Jira issues.  
+Joined a Jira demo session for the students with the team. 
+Joined the evening students stand up.
+
+Message 71:
+16/08/24, 10:39 pm
+Hello team, today I:
+Worked on and tested
+ jira issues
+Had code review with Amar
+Joined student project management demo
+
+Message 72:
+19/08/24, 6:03 pm
+Hello team. 
+Today, I: 
+Worked on and testing Jira issues. 
+Joined the students’ stand-up meeting.
+
+Message 73:
+20/08/24, 7:55 pm
+Hello team,
+Today I:
+Worked on and tested jira issues
+Joined student standup
+
+Message 74:
+26/08/24, 8:12 pm
+Hello team. 
+Today, I: 
+Worked on and tested Jira issues. 
+Joined the students’ stand up.
+
+Message 75:
+27/08/24, 6:55 pm
+Good evening. 
+Today, I: 
+Worked on and tested Jira issues. 
+Joined the students’ stand up.
+
+Message 76:
+28/08/24, 6:44 pm
+Good evening. 
+Today, I: 
+Worked on and tested Jira issues. 
+Joined the students’ stand up.
+
+Message 77:
+29/08/24, 7:38 pm
+Hello team, today I:
+Worked on and tested jira issues
+Joined students Wazuh demo
+
+Message 78:
+30/08/24, 8:10 pm
+Hello team, today I:
+Worked on and tested
+ jira issues
+Joined students standup
+Joined team's learning event
+
+Message 79:
+02/09/24, 6:06 pm
+Good evening. 
+Today, I: 
+Worked on and tested Jira issues. 
+Joined the students’ stand up.
+
+Message 80:
+03/09/24, 6:09 pm
+Hello team, today I:
+Worked ans tested Jira issues 
+Joined website audit meeting with marketing team
+Joined students standup
+
