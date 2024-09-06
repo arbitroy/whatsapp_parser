@@ -5,36 +5,78 @@ import (
 	"fmt"
 	"log"
 	"os"
-	"regexp"
+	"strings"
 )
 
-func main(){
-	file, err :=  os.Open("Whatsapp Chat with eProd Solutions.txt")
-
+func main() {
+	// Open the input file
+	inputFile, err := os.Open("Whatsapp Chat with eProd Solutions.txt")
 	if err != nil {
-        log.Fatal(err)
-    }
-    defer file.Close()
+		log.Fatal(err)
+	}
+	defer inputFile.Close()
 
-	// Define a regular expression pattern
-    // pattern := `(\d{2}/\d{2}/\d{4}), (\d{2}:\d{2}) - (.*?): (.*)`
-	newPattern := `\d{2}/\d{2}/\d{2},\s\d{2}:\d{2}\s*.*austinndauwa.*`
+	// Create the output file
+	outputFile, err := os.Create("austinndauwa_messages.txt")
+	if err != nil {
+		log.Fatal(err)
+	}
+	defer outputFile.Close()
 
-    // Compile the regular expression
-    re := regexp.MustCompile(newPattern)
+	// Create a scanner to read the input file line by line
+	scanner := bufio.NewScanner(inputFile)
 
-	scanner := bufio.NewScanner(file);
+	var currentMessage strings.Builder
+	isAustinMessage := false
+	messageCount := 0
+
+	// Function to write the current message to the output file
+	writeMessage := func() {
+		if isAustinMessage && currentMessage.Len() > 0 {
+			messageCount++
+			_, err := fmt.Fprintf(outputFile, "Message %d:\n%s\n\n", messageCount, strings.TrimSpace(currentMessage.String()))
+			if err != nil {
+				log.Fatal(err)
+			}
+		}
+		currentMessage.Reset()
+		isAustinMessage = false
+	}
 
 	// Iterate through each line in the file
 	for scanner.Scan() {
 		line := scanner.Text()
-		if re.MatchString(line) {
-			fmt.Printf("Match found: %s\n", line)
+
+		// Check if this line looks like the start of a new message
+		if strings.Contains(line, " - ") {
+			// Write the previous message if it exists
+			writeMessage()
+
+			// Split the line into timestamp and content
+			parts := strings.SplitN(line, " - ", 2)
+			if len(parts) == 2 {
+				// Check if this is a message from austinndauwa
+				senderAndMessage := strings.SplitN(parts[1], ": ", 2)
+				if len(senderAndMessage) == 2 && strings.EqualFold(strings.TrimSpace(senderAndMessage[0]), "austinndauwa") {
+					isAustinMessage = true
+					currentMessage.WriteString(senderAndMessage[1])
+					currentMessage.WriteString("\n")
+				}
+			}
+		} else if isAustinMessage {
+			// If we're in an Austin message, append this line
+			currentMessage.WriteString(line)
+			currentMessage.WriteString("\n")
 		}
 	}
+
+	// Write the last message if it exists
+	writeMessage()
 
 	// Check for errors during scanning
 	if err := scanner.Err(); err != nil {
 		log.Fatal(err)
 	}
+
+	fmt.Printf("Extraction complete. %d messages from austinndauwa saved to austinndauwa_messages.txt\n", messageCount)
 }
